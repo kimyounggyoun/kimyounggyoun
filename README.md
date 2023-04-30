@@ -1,5 +1,14 @@
-### Hi there 👋
+<div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=Waving&text=GyounsGithub)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyounggyoun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyounggyoun)](https://github.com/kimyounggyoun/github-readme-stats)
+  
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+
+</div>
 <!--
 **kimyounggyoun/kimyounggyoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
